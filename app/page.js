@@ -5,7 +5,6 @@ import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
 import Project from "@/components/Project";
-import Skills from "@/components/Skills";
 import React from "react";
 
 const page = () => {
@@ -16,7 +15,6 @@ const page = () => {
         <Hero />
         <Achievment />
         <About />
-        <Skills />
         <Project />
         <Email />
       </div>
